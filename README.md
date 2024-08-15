@@ -1,2 +1,3 @@
 # dotfiles
-Linux configurations files
+A collection of my personal dotfiles.
+

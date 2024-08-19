@@ -13,5 +13,7 @@ $ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 3. Apply config:
 ```bash
-$ tmux source tmux/.tmux.conf
+$ ln .tmux.conf ~/.tmux.conf
+$ tmux
+$ tmux source ~/.tmux.conf
 ```
